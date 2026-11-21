@@ -9,14 +9,14 @@ Full-stack developer with hands-on experience building Spring Boot REST APIs and
 **[Ledgerly](https://github.com/SenzwesihleNZwane/ledgerly-2)**
 A full-stack group expense splitter with a Spring Boot + JWT-secured REST API and a greedy debt-simplification algorithm that reduces group settlements to the minimum number of payments.
 
-**[Averix-Website](https://github.com/SenzwesihleNZwane/Averix-Website-Client)** ([Live Site](https://www.averixgames.co.za/))[cite: 3, 5]
-Commercial gaming studio website built with Next.js, React, TypeScript, and Firebase[cite: 5].
+**[Averix-Website](https://github.com/SenzwesihleNZwane/Averix-Website-Client)** ([Live Site](https://www.averixgames.co.za/))
+Commercial gaming studio website built with Next.js, React, TypeScript, and Firebase.
 
-**[latest-iphone-shop](https://github.com/SenzwesihleNZwane/latest-iphone-shop)** ([Live Storefront](https://latestiphone.infinityfreeapp.com/))[cite: 4, 33, 35]
-Multi-branch B2C e-commerce storefront and admin portal built with PHP 8 and MySQL[cite: 4, 35].
+**[latest-iphone-shop](https://github.com/SenzwesihleNZwane/latest-iphone-shop)** ([Live Storefront](https://latestiphone.infinityfreeapp.com/))
+Multi-branch B2C e-commerce storefront and admin portal built with PHP 8 and MySQL.
 
-**[ITMDA3-ChronicSystem](https://github.com/SenzwesihleNZwane/ITMDA3-ChronicSystem-Group)**[cite: 7]
-Mobile healthcare booking and queue-prioritization application built with React Native (Expo) and TypeScript for chronically ill patients[cite: 7].
+**[ITMDA3-ChronicSystem](https://github.com/SenzwesihleNZwane/ITMDA3-ChronicSystem-Group)**
+Mobile healthcare booking and queue-prioritization application built with React Native (Expo) and TypeScript for chronically ill patients.
 
 ## Tech Stack
 
@@ -24,9 +24,4 @@ Mobile healthcare booking and queue-prioritization application built with React 
 
 ## Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/senzwesihle-zwane) [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:senzwesihlezwane223@gmail.com) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/senzwesihle_zwane)
-
-## GitHub Stats
-
-![](https://github-readme-stats.shion.dev/api?username=SenzwesihleNZwane&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
-![](
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/senzwesihle-zwane) [![Email](
